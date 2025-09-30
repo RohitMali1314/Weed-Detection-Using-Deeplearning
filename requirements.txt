@@ -2,5 +2,6 @@ flask
 flask-cors
 ultralytics
 pillow
+gunicorn
 numpy
 opencv-python-headless
